@@ -1,0 +1,60 @@
+{"prompt": "Navigate to the living room and pick up the child's building blocks from the floor.", "completion": "{\"operations\": [\"navigate (navigate)\", \"pick up (pick up)\"] , \"objects\": [\"living room\", \"building blocks\", \"floor\"]}"}
+{"prompt": "Grab the empty laundry basket and take it to the washing machine.", "completion": "{\"operations\": [\"grab (grab)\"] , \"objects\": [\"laundry basket\", \"washing machine\"]}"}
+{"prompt": "Identify the specific type of bird making that loud noise outside the window.", "completion": "{\"operations\": [\"identify (identify)\"] , \"objects\": [\"bird\", \"noise\", \"window\"]}"}
+{"prompt": "Scan the entire shelf for any expired food items.", "completion": "{\"operations\": [\"scan (scan)\"] , \"objects\": [\"shelf\", \"expired food items\"]}"}
+{"prompt": "Push the heavy armchair slightly to the left to clean behind it.", "completion": "{\"operations\": [\"push (push)\"] , \"objects\": [\"armchair\"]}"}
+{"prompt": "Shift the stack of magazines on the coffee table to make room for a drink.", "completion": "{\"operations\": [\"shift (shift)\"] , \"objects\": [\"magazines\", \"coffee table\", \"drink\"]}"}
+{"prompt": "Listen for the sound of the timer going off in the kitchen.", "completion": "{\"operations\": [\"listen (listen)\"] , \"objects\": [\"timer\", \"kitchen\"]}"}
+{"prompt": "Speak the current battery level of the robot itself.", "completion": "{\"operations\": [\"speak (speak)\"] , \"objects\": [\"battery level\", \"robot\"]}"}
+{"prompt": "Dance a short, repetitive sequence as a test of motor control.", "completion": "{\"operations\": [\"dance (dance)\"] , \"objects\": [\"sequence\", \"motor control\"]}"}
+{"prompt": "Move fast to the designated charging dock, your battery is critical.", "completion": "{\"operations\": [\"move fast (move fast)\"] , \"objects\": [\"charging dock\", \"battery\"]}"}
+{"prompt": "Greet the person standing by the bookshelf.", "completion": "{\"operations\": [\"greet (greet)\"] , \"objects\": [\"person\", \"bookshelf\"]}"}
+{"prompt": "Pick up the remote from under the pillow on the bed.", "completion": "{\"operations\": [\"pick up (pick up)\"] , \"objects\": [\"remote\", \"pillow\", \"bed\"]}"}
+{"prompt": "Navigate to the garage and grab the car wash bucket.", "completion": "{\"operations\": [\"navigate (navigate)\", \"grab (grab)\"] , \"objects\": [\"garage\", \"car wash bucket\"]}"}
+{"prompt": "Identify the smallest object on the desk.", "completion": "{\"operations\": [\"identify (identify)\"] , \"objects\": [\"object\", \"desk\"]}"}
+{"prompt": "Scan the QR code on the monitor for troubleshooting information.", "completion": "{\"operations\": [\"scan (scan)\"] , \"objects\": [\"QR code\", \"monitor\", \"troubleshooting information\"]}"}
+{"prompt": "Push the large, red emergency stop button if human presence is detected.", "completion": "{\"operations\": [\"push (push)\"] , \"objects\": [\"emergency stop button\", \"human presence\"]}"}
+{"prompt": "Shift the small vase on the kitchen counter a few centimeters to the right.", "completion": "{\"operations\": [\"shift (shift)\"] , \"objects\": [\"vase\", \"kitchen counter\"]}"}
+{"prompt": "Listen for the sound of dripping water coming from the sink.", "completion": "{\"operations\": [\"listen (listen)\"] , \"objects\": [\"water dripping\", \"sink\"]}"}
+{"prompt": "Speak a summary of today's weather in Be'er Sheva, Israel, including temperature and forecast.", "completion": "{\"operations\": [\"speak (speak)\"] , \"objects\": [\"weather summary\", \"Be'er Sheva\", \"Israel\", \"temperature\", \"forecast\"]}"}
+{"prompt": "Dance a short, graceful movement.", "completion": "{\"operations\": [\"dance (dance)\"] , \"objects\": [\"movement\"]}"}
+{"prompt": "Move fast to the hallway to intercept the package delivery.", "completion": "{\"operations\": [\"move fast (move fast)\"] , \"objects\": [\"hallway\", \"package delivery\"]}"}
+{"prompt": "Greet the person wearing glasses in the room.", "completion": "{\"operations\": [\"greet (greet)\"] , \"objects\": [\"person\", \"glasses\", \"room\"]}"}
+{"prompt": "Pick up the discarded plastic bottle from the floor and place it in the recycling bin.", "completion": "{\"operations\": [\"pick up (pick up)\"] , \"objects\": [\"plastic bottle\", \"floor\", \"recycling bin\"]}"}
+{"prompt": "Navigate to the dining table and identify any leftover food.", "completion": "{\"operations\": [\"navigate (navigate)\", \"identify (identify)\"] , \"objects\": [\"dining table\", \"leftover food\"]}"}
+{"prompt": "Grab the remote control from the chair and turn on the television.", "completion": "{\"operations\": [\"grab (grab)\"] , \"objects\": [\"remote control\", \"chair\", \"television\"]}"}
+{"prompt": "Scan the documents in the printer tray for readiness.", "completion": "{\"operations\": [\"scan (scan)\"] , \"objects\": [\"documents\", \"printer tray\"]}"}
+{"prompt": "Push the door to the outside patio open.", "completion": "{\"operations\": [\"push (push)\"] , \"objects\": [\"door\", \"patio\"]}"}
+{"prompt": "Shift the laptop bag away from the walkway.", "completion": "{\"operations\": [\"shift (shift)\"] , \"objects\": [\"laptop bag\", \"walkway\"]}"}
+{"prompt": "Listen for any changes in the wind direction outside.", "completion": "{\"operations\": [\"listen (listen)\"] , \"objects\": [\"wind direction\", \"outside\"]}"}
+{"prompt": "Speak the current time in London, UK, on June 10, 2025.", "completion": "{\"operations\": [\"speak (speak)\"] , \"objects\": [\"time\", \"London\", \"UK\"]}"}
+{"prompt": "Go to the kitchen and fetch a glass of water.", "completion": "{\"operations\": [\"navigate (go to)\", \"grab (fetch)\"] , \"objects\": [\"kitchen\", \"glass of water\"]}"}
+{"prompt": "Pick up the wrench from the toolbox and bring it to the workshop.", "completion": "{\"operations\": [\"pick up (pick up)\", \"grab (bring)\"] , \"objects\": [\"wrench\", \"toolbox\", \"workshop\"]}"}
+{"prompt": "Detect the red ball in the children's play area.", "completion": "{\"operations\": [\"identify (detect)\"] , \"objects\": [\"red ball\", \"children's play area\"]}"}
+{"prompt": "Examine the QR code on the parcel to get more details.", "completion": "{\"operations\": [\"scan (examine)\"] , \"objects\": [\"QR code\", \"parcel\", \"details\"]}"}
+{"prompt": "Shove the box across the room to the corner.", "completion": "{\"operations\": [\"push (shove)\"] , \"objects\": [\"box\", \"room\", \"corner\"]}"}
+{"prompt": "Relocate the chair closer to the table.", "completion": "{\"operations\": [\"shift (relocate)\"] , \"objects\": [\"chair\", \"table\"]}"}
+{"prompt": "Hear for the doorbell and notify me when someone arrives.", "completion": "{\"operations\": [\"listen (hear)\"] , \"objects\": [\"doorbell\"]}"}
+{"prompt": "Utter a greeting to the person entering the room.", "completion": "{\"operations\": [\"speak (utter)\", \"greet (greeting)\"] , \"objects\": [\"person\"]}"}
+{"prompt": "Perform a jig to the rhythm currently playing.", "completion": "{\"operations\": [\"dance (perform a jig)\"] , \"objects\": [\"rhythm\"]}"}
+{"prompt": "Hurry to the charging station.", "completion": "{\"operations\": [\"move fast (hurry)\"] , \"objects\": [\"charging station\"]}"}
+{"prompt": "Head to the bedroom and retrieve the dirty clothes.", "completion": "{\"operations\": [\"navigate (head to)\", \"pick up (retrieve)\"] , \"objects\": [\"bedroom\", \"dirty clothes\"]}"}
+{"prompt": "Spot the biggest feline in the room.", "completion": "{\"operations\": [\"identify (spot)\"] , \"objects\": [\"feline\", \"room\"]}"}
+{"prompt": "Snatch the water container from the table and bring it here.", "completion": "{\"operations\": [\"grab (snatch)\"] , \"objects\": [\"water container\", \"table\"]}"}
+{"prompt": "Inspect the barcode on the milk carton.", "completion": "{\"operations\": [\"scan (inspect)\"] , \"objects\": [\"barcode\", \"milk carton\"]}"}
+{"prompt": "Propel the shopping trolley to the checkout counter.", "completion": "{\"operations\": [\"push (propel)\"] , \"objects\": [\"shopping trolley\", \"checkout counter\"]}"}
+{"prompt": "Move the large plant pot to the edge of the balcony.", "completion": "{\"operations\": [\"shift (move)\"] , \"objects\": [\"large plant pot\", \"balcony\"]}"}
+{"prompt": "Attend to the weather forecast and report the temperature.", "completion": "{\"operations\": [\"listen (attend to)\"] , \"objects\": [\"weather forecast\", \"temperature\"]}"}
+{"prompt": "Announce a welcome message to the visitors arriving.", "completion": "{\"operations\": [\"speak (announce)\", \"greet (welcome)\"] , \"objects\": [\"visitors\"]}"}
+{"prompt": "Execute a short dance routine for the audience.", "completion": "{\"operations\": [\"dance (execute a routine)\"] , \"objects\": [\"audience\"]}"}
+{"prompt": "Dash to evade the obstacle.", "completion": "{\"operations\": [\"move fast (dash)\"] , \"objects\": [\"obstacle\"]}"}
+{"prompt": "Locate the garage and seize the toolkit.", "completion": "{\"operations\": [\"navigate (locate)\", \"grab (seize)\"] , \"objects\": [\"garage\", \"toolkit\"]}"}
+{"prompt": "Discern the blue vehicle in the parking lot.", "completion": "{\"operations\": [\"identify (discern)\"] , \"objects\": [\"blue vehicle\", \"parking lot\"]}"}
+{"prompt": "Collect the keys from the hook by the entryway.", "completion": "{\"operations\": [\"pick up (collect)\"] , \"objects\": [\"keys\", \"hook\", \"entryway\"]}"}
+{"prompt": "Examine the document for inaccuracies.", "completion": "{\"operations\": [\"scan (examine)\"] , \"objects\": [\"document\", \"inaccuracies\"]}"}
+{"prompt": "Depress the button on the elevator.", "completion": "{\"operations\": [\"push (depress)\"] , \"objects\": [\"button\", \"elevator\"]}"}
+{"prompt": "Adjust the volumes on the bookshelf to create more room.", "completion": "{\"operations\": [\"shift (adjust)\"] , \"objects\": [\"volumes\", \"bookshelf\"]}"}
+{"prompt": "Perceive the sound of flowing water.", "completion": "{\"operations\": [\"listen (perceive)\"] , \"objects\": [\"flowing water\"]}"}
+{"prompt": "Articulate the current time.", "completion": "{\"operations\": [\"speak (articulate)\"] , \"objects\": [\"current time\"]}"}
+{"prompt": "Perform a celebratory boogie.", "completion": "{\"operations\": [\"dance (perform a boogie)\"] , \"objects\": []}"}
+{"prompt": "Sprint through the crowded passage.", "completion": "{\"operations\": [\"move fast (sprint)\"] , \"objects\": [\"passage\"]}"}
